@@ -1,0 +1,6 @@
+SMP Model Requirements
+
+pandas
+numpy
+matplotlib
+scipy
