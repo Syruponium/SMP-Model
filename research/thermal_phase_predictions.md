@@ -39,6 +39,7 @@ Below is the correlation data used to validate the thermal gradient theory.
 |   19 | NGC 5746       |              4e+11 |         40   | Edge-on Spiral                   |
 |   20 | NGC 1961       |              8e+11 |         60   | Active/Disturbed                 |
 
+[Download here csv file](https://github.com/Syruponium/SMP-Model/blob/main/data/galaxy_smp_dataset.csv)
 
 ![Results in a graph](https://github.com/Syruponium/SMP-Model/blob/main/images/Superfluid%20Radius%20vs%20Galaxy%20Luminosity.png)
 
