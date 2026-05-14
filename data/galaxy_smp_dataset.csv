@@ -1,0 +1,21 @@
+ID,Galaxy,Luminosity_L_sun,Radius_kpc,Environment
+1,Draco Dwarf,200000.0,0.3,Milky Way Satellite (Cold)
+2,Sculptor Dwarf,2000000.0,0.5,Milky Way Satellite (Cold)
+3,NGC 3741,30000000.0,3.0,Isolated (High HI gas)
+4,DDO 154,50000000.0,4.0,Isolated (Dark HI gas)
+5,DDO 168,80000000.0,4.0,Isolated
+6,NGC 2366,400000000.0,6.0,Star-forming
+7,NGC 1560,600000000.0,7.0,Standard
+8,NGC 3109,900000000.0,8.0,Standard
+9,NGC 2976,2000000000.0,5.0,M81 Group (Interacting/Stripped)
+10,NGC 6503,4000000000.0,10.0,Void edge
+11,NGC 2903,20000000000.0,15.0,Active Spiral
+12,NGC 3198,30000000000.0,30.0,Standard Spiral
+13,Milky Way,50000000000.0,25.0,Local Group
+14,NGC 2841,60000000000.0,35.0,Dusty Spiral
+15,Andromeda M31,70000000000.0,35.0,Local Group (Large BH)
+16,NGC 5055,80000000000.0,40.0,Standard Spiral
+17,NGC 7331,100000000000.0,30.0,Standard Spiral
+18,NGC 5533,200000000000.0,50.0,Large Bulge
+19,NGC 5746,400000000000.0,40.0,Edge-on Spiral
+20,NGC 1961,800000000000.0,60.0,Active/Disturbed
