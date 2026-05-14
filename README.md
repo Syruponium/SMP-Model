@@ -25,6 +25,27 @@ We invite discussion on whether this scaling is a manifestation of a medium defi
 2. **Environmental Residuals:** We observe that galaxies in dense clusters (e.g., NGC 2976) show "premature snapping" (negative residuals). Does this confirm a dependence on external ambient temperature?
 3. **Consistency with SVT:** How does this empirical scaling reconcile with existing Superfluid Vacuum Theory (SVT) models, such as those proposed by Khoury et al.?
 
+# Universe Elements: The SMP Encyclopedia
+
+Welcome to the core documentation for the **Syruponium Matrix Protocol (SMP)**. This folder contains the detailed physical explanations for the fundamental phenomena of our universe, viewed as a pressurized fluid medium.
+
+## The Chronological Map
+
+1. **[Big Bang](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/big_bang.md)**: The transition from supercritical fluid to superfluid expansion.
+2. **[Black Holes & Quasars](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/black_holes_quasars.md)**: The cosmic relief valves and particle factories.
+3. **[Hydrogen](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/hydrogen.md)**: The birth of neutral matter through Matrix resonance.
+4. **[Quasars & Filaments](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/quasars_and_filaments.md)**: The hydraulic distribution of the cosmic web.
+5. **[Galaxy Formation](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/galaxies_formation.md)**: The thermal vortices and the $L^{0.344}$ scaling.
+6. **[Gravitational Lensing](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/gravitational_lensing.md)**: Light refraction in a pressurized medium.
+7. **[Cosmic Voids](https://github.com/Syruponium/SMP-Model/blob/main/universe_elements/cosmic_voids.md)**: The viscous exclusion zones of the Matrix.
+
+---
+
+### Core Constants
+- **Hydraulic Floor:** $P_m = 10^{34}$ Pa
+- **Thermal Snap:** $T = 13.84$ K
+- **Scaling Law:** $R_{snap} \propto L_{bol}^{0.344}$
+
 ## Ethical Use & Licensing
 This research is shared under the **PolyForm Noncommercial License** and a custom **Ethical Use Clause**. This theory explores the fundamental energy density of the vacuum; we strictly prohibit the use of this data or derivative models for the development of offensive weaponry or destructive technologies.
 
